@@ -1,0 +1,167 @@
+@media (max-width: 992px) {
+
+    #heading {
+        display: none;
+    }
+
+    #search {
+        display: none;
+    }
+
+    #nav .drop button {
+        display: none;
+    }
+
+    #nav .ring {
+        display: none;
+    }
+
+    #nav {
+        padding: 10px 0;
+        background-color: white;
+        border-radius: 0px;
+        background-color: #EDEDED;
+    }
+
+    #news .row {
+        justify-content: center;
+        position: relative;
+        width: 90%;
+    }
+
+    #news .row .image {
+        display: block;
+        width: 90%;
+        height: 100%;
+    }
+
+    #news .row .details button {
+        right: 0px;
+    }
+
+    #news .close .klose {
+        right: 2px;
+        top: 2px;
+    }
+
+    #news .dont {
+        padding: 20px 0 !important;
+    }
+
+    #news .row .details {
+        display: block;
+        padding: 0;
+        width: 100%;
+        padding: 0 10px;
+    }
+
+    #subs form button {
+        right: 10px;
+    }
+
+    #subs ul {
+        padding-left: 0 !important;
+        padding-top: 20px !important;
+    }
+
+    #subs .details {
+        padding: 10px 20px;
+    }
+
+    #foot {
+        padding-bottom: 95px;
+    }
+
+    #foot .inss {
+        text-align: center;
+    }
+
+    #subs input {
+        padding-right: 125px !important;
+    }
+
+    #foot .first {
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+
+    #foot .first .shop {
+        padding-left: 20px;
+        padding-bottom: 40px;
+    }
+
+    #foot .first .shop .or {
+        text-align: center;
+    }
+
+    #foot .ins .row {
+        justify-content: space-around !important;
+        padding-left: 9px;
+    }
+
+    #foot .middle {
+        text-align: left;
+    }
+
+    #foot .account {
+        font-size: 17px !important;
+        margin-bottom: 12px !important;
+    }
+
+    #subs input::placeholder {
+        font-size: 14px;
+    }
+
+    #subs .logo {
+        justify-content: left !important;
+    }
+
+    #foot .social .nope {
+        justify-content: left !important;
+    }
+
+    #wish {
+        padding: 0 15px;
+        padding-bottom: 50px !important;
+    }
+
+    #wish .colum_info .pro {
+        text-align: center;
+    }
+
+    #wish .borderss .equal {
+        justify-content: center !important;
+        text-align: center;
+    }
+
+    #wish .ones {
+        text-align: center;
+    }
+
+    #wish .one {
+        justify-content: center;
+        display: flex;
+    }
+
+    #wish .Two {
+        display: flex;
+        justify-content: space-around !important;
+        padding: 10px 0 !important;
+
+    }
+
+    #wish .Three {
+        justify-content: center !important;
+        display: flex;
+        padding: 10px !important;
+    }
+
+    #wish .Four {
+        display: flex;
+        justify-content: center !important; 
+        padding-bottom: 10px;
+    }
+
+
+
+}
