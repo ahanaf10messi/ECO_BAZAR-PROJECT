@@ -344,8 +344,9 @@ a {
 /* MINI BANNER PART STARTS */
 
 #mini {
-    background-image: url(..cart.images/minibanner.png);
+    background-image: url(../cart.images/minibanner.png);
     background-position: center;
+    background-color: red;
     background-repeat: no-repeat;
     background-size: cover;
     padding: 40px;
